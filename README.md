@@ -90,6 +90,10 @@ O dashboard apresenta informações gerais do sistema, como a quantidade de máq
 
 A área de máquinas permite cadastrar, listar, visualizar e gerenciar máquinas agrícolas utilizadas na propriedade.
 
+### 🛠️ Ferramentas
+
+A tela de ferramentas permite cadastrar, listar e gerenciar ferramentas utilizadas nas atividades da propriedade rural.
+
 ### 📦 Estoque
 
 O sistema também possui áreas voltadas ao controle de estoque, incluindo sementes, materiais e defensivos agrícolas.
@@ -103,6 +107,10 @@ O sistema é dividido em módulos para facilitar a organização e o gerenciamen
 ### 🚜 Máquinas
 
 Responsável pelo cadastro e controle de máquinas agrícolas, incluindo dados como nome, modelo, descrição, quantidade e imagem.
+
+### 🛠️ Ferramentas
+
+Responsável pelo cadastro e controle de ferramentas utilizadas no dia a dia da propriedade, facilitando a organização e o acompanhamento dos itens disponíveis.
 
 ### 🌾 Sementes
 
@@ -138,7 +146,7 @@ Com isso, o sistema contribui para uma administração mais eficiente, organizad
 
 Desenvolvido por **Pedro Henrique dos Santos Gomes**.
 
-Estudante de **Sistemas de Informação** e desenvolvedor com interesse em soluções web, sistemas de gerenciamento e aplicações voltadas para facilitar processos do dia a dia.
+Estudante de **Sistemas de Informação** e **Analista de Sistemas** com interesse em soluções web, sistemas de gerenciamento e aplicações voltadas para facilitar processos do dia a dia.
 
 ---
 
