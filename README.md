@@ -152,6 +152,7 @@ Estudante de **Sistemas de Informação** e **Analista de Sistemas** com interes
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido para fins acadêmicos e de aprendizado.
+**Todos os direitos sobre o código, estrutura e materiais deste projeto são reservados ao autor.  
+Não é permitido copiar, modificar, distribuir, utilizar comercialmente ou reutilizar este projeto, total ou parcialmente, sem autorização prévia e por escrito do desenvolvedor.**
 
-**PEDRO H. GOMES - TODOS OS DIREITOS RESERVADOS.**
+**© 2026 Pedro Henrique dos Santos Gomes. Todos os direitos reservados.**
